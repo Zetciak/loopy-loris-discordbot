@@ -1,16 +1,16 @@
 ## Info
 Discord bot coded for "Loopy Loris Tribe" NFT
 
-> Coconut system <br/>
-> Free coconuts every 24 hours
-> Raffle system
-> Invited users leaderboard
-> Level, exp system + leaderboard
-> Custom embeds
-> Admin commands
-> NFT Rarity checker
-> Twitter follow and roles counter
-> Verify system
+> Coconut system<br/>
+> Free coconuts every 24 hours<br/>
+> Raffle system<br/>
+> Invited users leaderboard<br/>
+> Level, exp system + leaderboard<br/>
+> Custom embeds<br/>
+> Admin commands<br/>
+> NFT Rarity checker<br/>
+> Twitter follow and roles counter<br/>
+> Verify system<br/>
 
 ## Usage
 Node.js: v16.14.0
