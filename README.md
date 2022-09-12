@@ -1,7 +1,7 @@
 ## Info
 Discord bot coded for "Loopy Loris Tribe" NFT
 
-> >Coconut system<br/>
+> Coconut system<br/>
 > Free coconuts every 24 hours<br/>
 > Raffle system<br/>
 > Invited users leaderboard<br/>
@@ -19,6 +19,8 @@ Install all packages
 ```sh
 npm install
 ```
+
+Then run it on your server
 
 ## Authors
 
