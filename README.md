@@ -1,7 +1,7 @@
 ## Info
 Discord bot coded for "Loopy Loris Tribe" NFT
 
-> Coconut system
+> Coconut system <br/>
 > Free coconuts every 24 hours
 > Raffle system
 > Invited users leaderboard
